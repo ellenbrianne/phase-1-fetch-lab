@@ -31,4 +31,3 @@ describe( "index.js", () => {
     } )
   } )
 })
-npm 
